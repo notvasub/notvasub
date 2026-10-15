@@ -1,9 +1,9 @@
-<img alt="vasu, sketched at a café with a laptop and a coffee" src="./assets/cafe.jpg" width="100%">
+<img alt="vasu, sketched at a café with a laptop and a coffee" src="./assets/cafe.jpg" width="50%">
 
 <br>
 
 honors carolina scholar studying cs + business + ppe at unc.<br>
-curious about how people come to know things.<br>
+im broadly interested in how people come to know things. building in edtech.<br>
 spend more time on linkedin and x than i do on tiktok.
 
 <br>

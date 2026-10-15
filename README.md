@@ -6,8 +6,6 @@ honors carolina scholar studying cs + business + ppe at unc.<br>
 im broadly interested in how people come to know things. building in edtech.<br>
 spend more time on linkedin and x than i do on tiktok.
 
-<br>
-
 ### things i've made
 
 - **[synapse](https://vasub.com/projects)** — a multi-agent system that helps ad teams reason across scattered data. $10M+ in spend, 100+ accounts, one patent-pending architecture — and one lesson about earning complexity instead of starting with it.

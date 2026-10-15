@@ -1,4 +1,4 @@
-<img alt="vasu, sketched at a café with a laptop and a coffee" src="./assets/cafe.jpg" width="50%">
+<img alt="vasu, sketched at a café with a laptop and a coffee" src="./assets/cafe.jpg" width="100%" height="50%">
 
 <br>
 

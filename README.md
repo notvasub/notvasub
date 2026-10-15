@@ -10,13 +10,11 @@ spend more time on linkedin and x than i do on tiktok.
 
 ### things i've made
 
-| | |
-| :-- | :-- |
-| **[synapse](https://vasub.com/projects)** | a multi-agent system that helps ad teams reason across scattered data. $10M+ in spend, 100+ accounts, one patent-pending architecture — and one lesson about earning complexity instead of starting with it. |
-| **[oneprep](https://oneprep.xyz)** | sat prep that adapts to you, built as part of general learning (yc f24). shipped the mvp to 15,000+ daily learners. |
-| **[atp](https://vasub.com/projects)** | won hackgt. twice. |
-| **[in-deed](https://vasub.com/projects)** | tutoring software rebuilt around the paper logs tutors already trusted. |
-| **[party smart](https://github.com/cssgunc/party-registration)** | party registration for unc, built with a 25+ person team of developers and designers. |
+- **[synapse](https://vasub.com/projects)** — a multi-agent system that helps ad teams reason across scattered data. $10M+ in spend, 100+ accounts, one patent-pending architecture — and one lesson about earning complexity instead of starting with it.
+- **[oneprep](https://oneprep.xyz)** — sat prep that adapts to you, built as part of general learning (yc f24). shipped the mvp to 15,000+ daily learners.
+- **[atp](https://vasub.com/projects)** — won hackgt. twice.
+- **[in-deed](https://vasub.com/projects)** — tutoring software rebuilt around the paper logs tutors already trusted.
+- **[party smart](https://github.com/cssgunc/party-registration)** — party registration for unc, built with a 25+ person team of developers and designers.
 
 <sub>→ the rest live at <a href="https://vasub.com/projects">vasub.com/projects</a></sub>
 
